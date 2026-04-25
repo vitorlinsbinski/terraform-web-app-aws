@@ -5,7 +5,7 @@
 
 # Terraform Exercício — EC2 (Ubuntu) + Nginx
 
-Infraestrutura como código (IaC) com Terraform para provisionar uma instância EC2 na AWS (Ubuntu 24.04) já configurada com Nginx via `user_data`, com acesso por SSH e HTTP liberados via Security Group.
+Esse projeto consiste em um estudo sobre Infraestrutura como código (IaC) com Terraform para provisionar uma instância EC2 na AWS (Ubuntu 24.04) já configurada com Nginx via `user_data`, com acesso por SSH e HTTP liberados via Security Group.
 
 > Projeto de estudo do curso **Engenharia de Dados / Deep Learning**.
 
