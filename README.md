@@ -1,4 +1,8 @@
 
+<p align="center">
+	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="96" />
+</p>
+
 # Terraform Exercício — EC2 (Ubuntu) + Nginx
 
 Infraestrutura como código (IaC) com Terraform para provisionar uma instância EC2 na AWS (Ubuntu 24.04) já configurada com Nginx via `user_data`, com acesso por SSH e HTTP liberados via Security Group.
