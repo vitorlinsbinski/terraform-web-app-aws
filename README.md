@@ -1,6 +1,9 @@
 
 <p align="center">
 	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="96" />
+	<span style="display:inline-block; background:#232F3E; padding:10px 14px; border-radius:6px; line-height:0; margin-left: 16px">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Font_Awesome_5_brands_aws.svg" alt="AWS" width="105" style="filter: invert(1) brightness(1.2);" />
+	</span>
 </p>
 
 # Terraform Exercício — EC2 (Ubuntu) + Nginx
