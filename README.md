@@ -1,7 +1,7 @@
 
-<p align="center">
+<p align="left">
 	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="96" />
-	<span style="display:inline-block; background:#232F3E; padding:10px 14px; border-radius:6px; line-height:0; margin-left: 16px">
+	<span style="display:inline-block; background:#232F3E; padding:10px 14px; border-radius:6px; line-height:0; margin-left: 32px">
 		<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws.png" alt="AWS" width="105" style="filter: invert(1) brightness(1.2);" />
 	</span>
 </p>
