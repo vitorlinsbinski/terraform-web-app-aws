@@ -1,10 +1,10 @@
 
 <p align="left">
 	<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="96" />
-	<span style="display:inline-block; background:#232F3E; padding:10px 14px; border-radius:6px; line-height:0; margin: 0 20px">
+	<span style="display:inline-block; background:#232F3E; padding:10px 14px; border-radius:6px; line-height:0; margin:0 20px; border:1px solid rgba(255,255,255,0.18);">
 		<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws.png" alt="AWS" width="105"/>
 	</span>
-    <img src="https://images.icon-icons.com/2699/PNG/512/nginx_logo_icon_169915.png" alt="Terraform" width="96" />
+	<img src="https://images.icon-icons.com/2699/PNG/512/nginx_logo_icon_169915.png" alt="Nginx" width="96" />
 </p>
 
 # Terraform Exercício — EC2 (Ubuntu) + Nginx
